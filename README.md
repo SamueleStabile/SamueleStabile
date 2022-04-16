@@ -6,8 +6,8 @@ I like making cool looking websites.<br>
 
 
 <h1>🏆Code Competitions Achievements 🏆</h1><br>
-- 🥇The Italian 1st Place EU CodeWeek Hackathon 
-- 🥉3rd Place EU CodeWeek Hackathon (EU Phase)
+🥇The Italian 1st Place EU CodeWeek Hackathon <br>
+🥉3rd Place EU CodeWeek Hackathon (EU Phase)<br>
     
 
 <!--
