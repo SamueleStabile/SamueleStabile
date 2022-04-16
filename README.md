@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello 🌹
+
+**I'm Samuele, 19 y.o.**<br>
+I'm a student of **Computer Engineering**.<br>
+I like making cool looking websites.<br>
+
+
+Winner of... <br>
+  - The Italian 1st Place EU CodeWeek Hackathon 
+  - 3rd Place EU CodeWeek Hackathon (EU Phase)
+    
 
 <!--
 **SamueleStabile/SamueleStabile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
