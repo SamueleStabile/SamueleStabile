@@ -1,13 +1,13 @@
-<h1>Hello 🌹</h1>
+<h1>Hello I'm **Samu**! - aka SamuRaider🌹</h1>
 
 **I'm Samuele, 19 y.o.**<br>
 I'm a student of **Computer Engineering**.<br>
 I like making cool looking websites.<br>
 
 
-Winner of... <br>
-  - The Italian 1st Place EU CodeWeek Hackathon 
-  - 3rd Place EU CodeWeek Hackathon (EU Phase)
+<h1>**🏆Code Competitions Achievements 🏆**</h1><br>
+  - 🥇The Italian 1st Place EU CodeWeek Hackathon 
+  - 🥉3rd Place EU CodeWeek Hackathon (EU Phase)
     
 
 <!--
