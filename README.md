@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Samu 
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, my name is Samu 
 ### **Web Designer** and student of **Computer Engineering**🌹
 ![**Web Designer** and student of **Computer Engineering**](https://pbs.twimg.com/profile_banners/1083878404225724416/1641803588/1500x500)
 I like making cool looking websites.
