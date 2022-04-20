@@ -11,7 +11,7 @@ I like making cool looking websites.<br>
     
 [![Samuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamueleStabile&show_icons=true&theme=tokyonight)](https://github.com/SamueleStabile/github-readme-stats)
 
-
+[![Samuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamueleStabile)](https://github.com/SamueleStabile/github-readme-stats)
 
 
 
