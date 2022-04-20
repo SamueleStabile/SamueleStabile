@@ -9,7 +9,7 @@ I like making cool looking websites.<br>
 🥇The Italian 1st Place EU CodeWeek Hackathon <br>
 🥉3rd Place EU CodeWeek Hackathon (EU Phase)<br>
     
-
+![Samuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=aSamueleStabile&show_icons=true&theme=radical
 <!--
 **SamueleStabile/SamueleStabile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
