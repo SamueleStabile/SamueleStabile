@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Samu 
-### **Web Designer** and student of **Computer Engineering**
+### **Web Designer** and student of **Computer Engineering**🌹
 ![**Web Designer** and student of **Computer Engineering**](https://pbs.twimg.com/profile_banners/1083878404225724416/1641803588/1500x500)
 I like making cool looking websites.
 I really like that banner image.
