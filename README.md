@@ -5,7 +5,7 @@ I'm a student of **Computer Engineering**.<br>
 I like making cool looking websites.<br>
 
 
-<h1>🏆Code Competitions Achievements 🏆</h1><br>
+# 🏆Code Competitions Achievements 🏆 <br>
 🥇The Italian 1st Place EU CodeWeek Hackathon <br>
 🥉3rd Place EU CodeWeek Hackathon (EU Phase)<br>
     
