@@ -9,7 +9,7 @@ I like making cool looking websites.<br>
 🥇The Italian 1st Place EU CodeWeek Hackathon <br>
 🥉3rd Place EU CodeWeek Hackathon (EU Phase)<br>
     
-[![Samuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamueleStabile&show_icons=true&theme=onedark)](https://github.com/SamueleStabile/github-readme-stats)
+[![Samuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamueleStabile&show_icons=true&theme=cobalt)](https://github.com/SamueleStabile/github-readme-stats)
 
 
 
