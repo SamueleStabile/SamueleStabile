@@ -1,23 +1,32 @@
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, my name is Samu 
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" alt="hi">, my name is Samu 
 ### **Web Designer** and student of **Computer Engineering**🌹
 ![**Web Designer** and student of **Computer Engineering**](https://pbs.twimg.com/profile_banners/1083878404225724416/1641803588/1500x500)
-I like making cool looking websites.
-I really like that banner image.
+*I like making cool looking websites, and I really like that banner image.*
 
-### 🔗 Portfolio --> https://linktr.ee/SamuRaider
+### 🔗 [Portfolio here 👀](https://linktr.ee/SamuRaider)
+------------
 
-# 🏆Code Competitions Achievements 🏆 <br>
+### 🏆Code Competitions Achievements 🏆 <br>
 * 🥇 The Italian 1st Place EU CodeWeek Hackathon <br>
 * 🥉 3rd Place EU CodeWeek Hackathon (EU Phase)<br>
-# 📊Stats📊  
+------------
+### 📊Stats📊  
 [![Samuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamueleStabile&show_icons=true&theme=tokyonight)](https://github.com/SamueleStabile/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleStabile&layout=compact)](https://github.com/SamueleStabile/github-readme-stats)
+___________________________
 
-## 👥 Get in touch with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/samu_raid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SamuRaider_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/SamuRaider)  
 
-## 🍕 Languages that i have learned 🍕
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/samuraider_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuraider_" height="30" width="40" /></a>
+<a href="https://instagram.com/samu_raid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samu_raid" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/samuraider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samuraider" height="30" width="40" /></a>
+<a href="https://discord.gg/B6HJXX8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="B6HJXX8" height="30" width="40" /></a>
+</p>
+
+
+### 🍕 Languages that i have learned 🍕
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -31,7 +40,7 @@ I really like that banner image.
   <img src="https://img.shields.io/badge/MIPS-%2300599C.svg?style=for-the-badge&logo=Assembly&logoColor=white">
 </p>
 
-## 🍔 Software that i use 🍔
+### 🍔 Software that i use 🍔
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
@@ -45,17 +54,3 @@ I really like that banner image.
 
 
 
-<!--
-**SamueleStabile/SamueleStabile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
