@@ -13,6 +13,7 @@
 * 🥇 The Italian 1st Place EU CodeWeek Hackathon <br>
 * 🥉 3rd Place EU CodeWeek Hackathon (EU Phase)<br>
 ------------
+
 ### 📊Stats📊  
 <br/>
     <a href="https://github.com/SamueleStabile/github-readme-stats"><img alt="SamueleStabile's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamueleStabile&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -66,5 +67,9 @@ ___________________________
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
 </p>
 
-
+<p align="center">
+    <a href="https://github.com/SamueleStabile/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SamueleStabile's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SamueleStabile&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
