@@ -1,5 +1,8 @@
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" alt="hi">, my name is Samu 
-### **Web Designer** and student of **Computer Engineering**🌹
+<h1 align = center>Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px" alt="hi">, my name is Samu </h1>
+
+<h4 align = center>Web Designer and student of Computer Engineering🌹</h4>
+
+
 ![**Web Designer** and student of **Computer Engineering**](https://pbs.twimg.com/profile_banners/1083878404225724416/1641803588/1500x500)
 *I like making cool looking websites, and I really like that banner image.*
 
@@ -11,9 +14,20 @@
 * 🥉 3rd Place EU CodeWeek Hackathon (EU Phase)<br>
 ------------
 ### 📊Stats📊  
-[![Samuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamueleStabile&show_icons=true&theme=tokyonight)](https://github.com/SamueleStabile/github-readme-stats)
+<br/>
+    <a href="https://github.com/SamueleStabile/github-readme-stats"><img alt="SamueleStabile's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamueleStabile&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SamueleStabile/github-readme-stats"><img alt="SamueleStabile's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleStabile&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleStabile&layout=compact)](https://github.com/SamueleStabile/github-readme-stats)
+
+<br/>
+<br/>
+
+<a href="https://github.com/SamueleStabile/github-readme-activity-graph"><img alt="SamueleStabile's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SamueleStabile&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 ___________________________
 
 
