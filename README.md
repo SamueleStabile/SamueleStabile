@@ -6,7 +6,7 @@
 ![**Web Designer** and student of **Computer Engineering**](https://pbs.twimg.com/profile_banners/1083878404225724416/1641803588/1500x500)
 *I like making cool looking websites, and I really like that banner image.*
 
-### 🔗 [Portfolio here 👀](https://linktr.ee/SamuRaider)
+### <p align ="center">-->🔗 [Portfolio here 👀](https://linktr.ee/SamuRaider)<--</p>
 ------------
 
 ### 🏆Code Competitions Achievements 🏆 <br>
@@ -27,16 +27,19 @@
 
 <a href="https://github.com/SamueleStabile/github-readme-activity-graph"><img alt="SamueleStabile's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SamueleStabile&bg_color=0D1117&color=803dd1&line=803dd1&point=FFFFFF&hide_border=true" /></a>
 
+
 -----------------------------
 
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
+<h3 align="center">🔗 Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/samuraider_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuraider_" height="30" width="40" /></a>
 <a href="https://instagram.com/samu_raid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samu_raid" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/samuraider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samuraider" height="30" width="40" /></a>
 <a href="https://discord.gg/B6HJXX8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="B6HJXX8" height="30" width="40" /></a>
 </p>
+
+------------------------------
 
 
 ### 🍕 Languages that i have learned 🍕
@@ -57,11 +60,12 @@
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"> 
-  <img src="https://img.shields.io/badge/adobeillustrator-%ffa500.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white">
-   <img src="https://img.shields.io/badge/adobepremiere-%2331A8FF.svg?style=for-the-badge&logo=premiere&logoColor=white">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"> 
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%ffa500.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+   <img src="https://img.shields.io/badge/adobe%20premiere-9999FF.svg?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+  <img src="https://img.shields.io/badge/Vegas%20Pro-808080?style=for-the-badge&logo=vegaspro&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white">
 </p>
 
